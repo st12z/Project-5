@@ -1,0 +1,17 @@
+.correct-answer{
+    margin-left: 20px;
+    color: green;
+}
+.wrong-answer{
+    margin-left: 20px;
+    color: red;
+}
+
+.result__answer{
+    &--selected{
+        color:red;
+    }
+    &--true{
+        color:green;
+    }
+}

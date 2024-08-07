@@ -1,0 +1,673 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fullName": "Nguyen Thi A",
+      "email": "nguyenthia@gmail.com",
+      "password": "nguyenthia",
+      "token": "bkP9vQydMBRmW670bqD7"
+    },
+    {
+      "id": "2",
+      "fullName": "Tran Van B",
+      "email": "tranvanb@gmail.com",
+      "password": "tranvanb",
+      "token": "7mF2vQydABGmW670bqA9"
+    },
+    {
+      "id": "3",
+      "fullName": "Le Thi C",
+      "email": "lethic@gmail.com",
+      "password": "lethic",
+      "token": "8nH3vRydCGRmW671crE8"
+    },
+    {
+      "id": "4",
+      "fullName": "Pham Van D",
+      "email": "phamvand@gmail.com",
+      "password": "phamvand",
+      "token": "9kG4wTyeDHRmW672dsG7"
+    },
+    {
+      "id": "5",
+      "fullName": "Hoang Thi E",
+      "email": "hoangthie@gmail.com",
+      "password": "hoangthie",
+      "token": "0pI5xUygEIRmW673etH6"
+    },
+    {
+      "id": "91f8",
+      "fullName": "nguyenthic",
+      "email": "nguyenthic@gmail.com",
+      "password": "123",
+      "token": "0pI5xUyEIRmW673etH6"
+    }
+  ],
+  "topics": [
+    {
+      "id": "1",
+      "name": "HTML5"
+    },
+    {
+      "id": "2",
+      "name": "CSS3"
+    },
+    {
+      "id": "3",
+      "name": "Javascript"
+    },
+    {
+      "id": "4",
+      "name": "ReactJS"
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "topicId": 1,
+      "question": "HTML là viết tắt của?",
+      "answers": [
+        "Hyperlinks and Text Markup Language",
+        "Home Tool Markup Language",
+        "Hyper Text Markup Language"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "2",
+      "topicId": 1,
+      "question": "Thẻ <section> được sử dụng để?",
+      "answers": [
+        "Định nghĩa một phần hoặc một vùng của tài liệu",
+        "Định nghĩa một liên kết",
+        "Định nghĩa một đoạn văn"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "3",
+      "topicId": 1,
+      "question": "Thẻ nào được sử dụng để nhúng video trong HTML5?",
+      "answers": [
+        "<video>",
+        "<audio>",
+        "<embed>"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "4",
+      "topicId": 1,
+      "question": "Thẻ <canvas> được sử dụng để?",
+      "answers": [
+        "Vẽ đồ họa",
+        "Định nghĩa một đoạn văn",
+        "Định nghĩa một liên kết"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "5",
+      "topicId": 1,
+      "question": "Thẻ nào được sử dụng để nhúng âm thanh trong HTML5?",
+      "answers": [
+        "<video>",
+        "<audio>",
+        "<sound>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "6",
+      "topicId": 1,
+      "question": "Thẻ <article> được sử dụng để?",
+      "answers": [
+        "Định nghĩa một bài viết độc lập",
+        "Định nghĩa một đoạn văn",
+        "Định nghĩa một liên kết"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "7",
+      "topicId": 1,
+      "question": "Thẻ <header> được sử dụng để?",
+      "answers": [
+        "Định nghĩa đầu trang của tài liệu",
+        "Định nghĩa một đoạn văn",
+        "Định nghĩa một liên kết"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "8",
+      "topicId": 1,
+      "question": "Thẻ <footer> được sử dụng để?",
+      "answers": [
+        "Định nghĩa chân trang của tài liệu",
+        "Định nghĩa một đoạn văn",
+        "Định nghĩa một liên kết"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "9",
+      "topicId": 1,
+      "question": "Thẻ <aside> được sử dụng để?",
+      "answers": [
+        "Định nghĩa nội dung bên lề",
+        "Định nghĩa một đoạn văn",
+        "Định nghĩa một liên kết"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "10",
+      "topicId": 1,
+      "question": "Thẻ <nav> được sử dụng để?",
+      "answers": [
+        "Định nghĩa thanh điều hướng",
+        "Định nghĩa một đoạn văn",
+        "Định nghĩa một liên kết"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "11",
+      "topicId": 1,
+      "question": "Thẻ <main> được sử dụng để?",
+      "answers": [
+        "Định nghĩa nội dung chính của tài liệu",
+        "Định nghĩa một đoạn văn",
+        "Định nghĩa một liên kết"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "12",
+      "topicId": 1,
+      "question": "Thẻ nào dùng để định nghĩa các siêu dữ liệu trong HTML?",
+      "answers": [
+        "<meta>",
+        "<link>",
+        "<style>"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "13",
+      "topicId": 2,
+      "question": "CSS là viết tắt của?",
+      "answers": [
+        "Cascading Style Sheets",
+        "Colorful Style Sheets",
+        "Creative Style Sheets"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "14",
+      "topicId": 2,
+      "question": "Thuộc tính nào dùng để thay đổi màu nền của một phần tử?",
+      "answers": [
+        "background-color",
+        "color",
+        "font-color"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "15",
+      "topicId": 2,
+      "question": "Thuộc tính nào dùng để thay đổi kích thước chữ?",
+      "answers": [
+        "font-size",
+        "text-size",
+        "size"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "16",
+      "topicId": 2,
+      "question": "Thuộc tính nào dùng để thay đổi kiểu chữ?",
+      "answers": [
+        "font-family",
+        "font-style",
+        "font-weight"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "17",
+      "topicId": 2,
+      "question": "Giá trị nào của thuộc tính 'display' sẽ ẩn một phần tử nhưng vẫn chiếm không gian?",
+      "answers": [
+        "none",
+        "block",
+        "inline"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "18",
+      "topicId": 2,
+      "question": "Thuộc tính nào dùng để tạo khoảng cách giữa các phần tử?",
+      "answers": [
+        "margin",
+        "padding",
+        "border"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "19",
+      "topicId": 2,
+      "question": "Thuộc tính nào dùng để tạo khoảng cách bên trong phần tử?",
+      "answers": [
+        "padding",
+        "margin",
+        "border"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "20",
+      "topicId": 2,
+      "question": "Giá trị nào của thuộc tính 'position' sẽ đặt phần tử ở vị trí tuyệt đối so với phần tử cha?",
+      "answers": [
+        "absolute",
+        "relative",
+        "fixed"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "21",
+      "topicId": 2,
+      "question": "Giá trị nào của thuộc tính 'position' sẽ đặt phần tử ở vị trí cố định so với cửa sổ trình duyệt?",
+      "answers": [
+        "fixed",
+        "relative",
+        "absolute"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "22",
+      "topicId": 2,
+      "question": "Thuộc tính nào dùng để thay đổi độ mờ của một phần tử?",
+      "answers": [
+        "opacity",
+        "visibility",
+        "display"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "23",
+      "topicId": 2,
+      "question": "Thuộc tính nào dùng để tạo bóng cho phần tử?",
+      "answers": [
+        "box-shadow",
+        "text-shadow",
+        "shadow"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "24",
+      "topicId": 2,
+      "question": "Thuộc tính nào dùng để tạo hiệu ứng chuyển đổi giữa hai trạng thái của phần tử?",
+      "answers": [
+        "transition",
+        "animation",
+        "transform"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "25",
+      "topicId": 3,
+      "question": "React là một thư viện JavaScript để xây dựng?",
+      "answers": [
+        "Giao diện người dùng",
+        "Ứng dụng server-side",
+        "Database"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "26",
+      "topicId": 3,
+      "question": "JSX là gì?",
+      "answers": [
+        "Một ngôn ngữ lập trình",
+        "Một cú pháp mở rộng cho JavaScript",
+        "Một loại CSS"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "27",
+      "topicId": 3,
+      "question": "Component trong React là gì?",
+      "answers": [
+        "Một hàm hoặc lớp trả về phần tử React",
+        "Một kiểu dữ liệu",
+        "Một loại biến"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "28",
+      "topicId": 3,
+      "question": "State trong React là gì?",
+      "answers": [
+        "Một đối tượng dùng để lưu trữ dữ liệu",
+        "Một hàm",
+        "Một biến"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "29",
+      "topicId": 3,
+      "question": "Props trong React là gì?",
+      "answers": [
+        "Các tham số được truyền vào component",
+        "Một loại state",
+        "Một kiểu dữ liệu"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "30",
+      "topicId": 3,
+      "question": "Lifecycle methods trong React là gì?",
+      "answers": [
+        "Các phương thức gọi trong các giai đoạn của component",
+        "Các hàm bình thường",
+        "Các biến"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "31",
+      "topicId": 3,
+      "question": "useState là một?",
+      "answers": [
+        "Hook",
+        "Component",
+        "Class"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "32",
+      "topicId": 3,
+      "question": "useEffect là một?",
+      "answers": [
+        "Hook",
+        "Component",
+        "Class"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "33",
+      "topicId": 3,
+      "question": "Component nào là component gốc trong React?",
+      "answers": [
+        "App",
+        "Root",
+        "Main"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "34",
+      "topicId": 3,
+      "question": "useRef trong React dùng để làm gì?",
+      "answers": [
+        "Lưu trữ tham chiếu đến phần tử DOM",
+        "Lưu trữ state",
+        "Lưu trữ props"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "35",
+      "topicId": 3,
+      "question": "Context API trong React dùng để làm gì?",
+      "answers": [
+        "Quản lý state toàn cục",
+        "Quản lý props",
+        "Quản lý component"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "36",
+      "topicId": 3,
+      "question": "Redux là gì?",
+      "answers": [
+        "Thư viện quản lý state",
+        "Thư viện CSS",
+        "Thư viện HTML"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "37",
+      "topicId": 3,
+      "question": "Redux sử dụng gì để quản lý state?",
+      "answers": [
+        "Store",
+        "DOM",
+        "Component"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "38",
+      "topicId": 4,
+      "question": "JavaScript là gì?",
+      "answers": [
+        "Một ngôn ngữ lập trình",
+        "Một ngôn ngữ đánh dấu",
+        "Một ngôn ngữ kiểu dữ liệu"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "39",
+      "topicId": 4,
+      "question": "Biến nào trong JavaScript không thể thay đổi giá trị?",
+      "answers": [
+        "const",
+        "let",
+        "var"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "40",
+      "topicId": 4,
+      "question": "Phương thức nào dùng để thêm phần tử vào cuối mảng?",
+      "answers": [
+        "push()",
+        "pop()",
+        "shift()"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "41",
+      "topicId": 4,
+      "question": "Phương thức nào dùng để xóa phần tử đầu tiên của mảng?",
+      "answers": [
+        "shift()",
+        "unshift()",
+        "pop()"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "42",
+      "topicId": 4,
+      "question": "Phương thức nào dùng để thêm phần tử vào đầu mảng?",
+      "answers": [
+        "unshift()",
+        "push()",
+        "shift()"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "43",
+      "topicId": 4,
+      "question": "typeof null trả về kết quả gì?",
+      "answers": [
+        "object",
+        "null",
+        "undefined"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "44",
+      "topicId": 4,
+      "question": "Phương thức nào dùng để chuyển đổi JSON thành đối tượng JavaScript?",
+      "answers": [
+        "JSON.parse()",
+        "JSON.stringify()",
+        "JSON.convert()"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "45",
+      "topicId": 4,
+      "question": "Phương thức nào dùng để chuyển đổi đối tượng JavaScript thành JSON?",
+      "answers": [
+        "JSON.stringify()",
+        "JSON.parse()",
+        "JSON.convert()"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "46",
+      "topicId": 4,
+      "question": "Sự kiện nào dùng để chạy hàm khi người dùng nhấp chuột vào phần tử?",
+      "answers": [
+        "onclick",
+        "onmouseover",
+        "onchange"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "47",
+      "topicId": 4,
+      "question": "Phương thức nào dùng để kết hợp hai mảng?",
+      "answers": [
+        "concat()",
+        "join()",
+        "merge()"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "48",
+      "topicId": 4,
+      "question": "Giá trị nào của 'undefined' là đúng trong JavaScript?",
+      "answers": [
+        "false",
+        "true",
+        "null"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "49",
+      "topicId": 4,
+      "question": "Cú pháp nào để tạo hàm trong JavaScript?",
+      "answers": [
+        "function myFunction()",
+        "var myFunction()",
+        "let myFunction()"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "50",
+      "topicId": 4,
+      "question": "Sự kiện nào được gọi khi người dùng nhấn phím trên bàn phím?",
+      "answers": [
+        "onkeydown",
+        "onkeypress",
+        "onkeyup"
+      ],
+      "correctAnswer": 0
+    }
+  ],
+  "answers": [
+    {
+      "id": "685d",
+      "userId": "91f8",
+      "topicId": 1,
+      "answers": [
+        {
+          "questionId": 1,
+          "answer": 2
+        },
+        {
+          "questionId": 2,
+          "answer": 2
+        },
+        {
+          "questionId": 3,
+          "answer": 1
+        },
+        {
+          "questionId": 4,
+          "answer": 0
+        },
+        {
+          "questionId": 5,
+          "answer": 0
+        },
+        {
+          "questionId": 6,
+          "answer": 0
+        },
+        {
+          "questionId": 7,
+          "answer": 1
+        },
+        {
+          "questionId": 8,
+          "answer": 1
+        },
+        {
+          "questionId": 9,
+          "answer": 0
+        },
+        {
+          "questionId": 10,
+          "answer": 0
+        },
+        {
+          "questionId": 11,
+          "answer": 0
+        },
+        {
+          "questionId": 12,
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}
